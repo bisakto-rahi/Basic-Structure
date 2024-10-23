@@ -12,6 +12,14 @@
 * {
   font-family: var(--my-font-1);
 }
+.my-pera{
+  font-family: var(--my-font-3);
+}
+/* ----------{  Added font family by download  }---------- */
+/* @font-face {
+  font-family: salsa;
+  src: url(assets/font/salsa/Salsa-Regular.ttf);
+} */
 /*// --------{  Added font family  }----------// */
 
 /* ----------{  Body style  }---------- */
@@ -102,10 +110,8 @@ html{
 
 /*todo--------------{  Start Header Section Style  }--------------_*/
 /*//--------------{  Header Section Style  }--------------//*/
-/*todo--------------{  Start Navbar Section Style  }--------------_*/
-/*//--------------{  Navbar Section Style  }--------------//*/
-/*todo--------------{  Start Main Section Style  }----------------_*/
-/*//--------------{  Main Section Style  }----------------//*/
+/*todo--------------{  Start Banner Section Style  }----------------_*/
+/*//--------------{  Banner Section Style  }----------------//*/
 /*todo--------------{  Start Extra Section Style  }---------------_*/
 /*//--------------{  Extra Section Style  }-------------//-_*/
 /*todo--------------{  Start Article Section Style  }---------------_*/
