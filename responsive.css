@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+/*?-----------------{   Doctype.css   }----------------- */
+
+/*!----------{  Author      :   Bisakto-Rahi  }----------_*/
+/*!----------{  Create       :   23/10/2024   }----------_*/
+
+/*todo--------------{  Start Default Style For all  }--------------_*/
+
+/*_----------{  My Responsive Variables  }----------_*/
+:root{
+  --break-point-xs: 0;
+  --break-point-sm: 576px;
+  --break-point-md: 768px;
+  --break-point-lg: 992px;
+  --break-point-xl: 1200px;
+  --break-point-xxl: 1400px;
+}
+/*!----------{  Last Update   :   23/10/2024   }----------_*/
+
+@media ( max-width: var(--break-point-xxl) ) {
+
+}
+
+@media ( max-width: var(--break-point-xl) ) {
+
+}
+
+@media ( max-width: var(--break-point-lg) ) {
+
+}
+
+@media ( max-width: var(--break-point-md) ) {
+
+}
+
+@media ( max-width: var(--break-point-sm) ) {
+
+}
+
+@media ( max-width: var(--break-point-0) ) {
+
+}
+/*//--------------{  Default Style For all  }--------------//*/
+
+/*_----------{  Add Description  }----------_*/
+
+/*_----------{  ^_^  }----------_*/
+
+/*//----------{  Description  }----------//*/
